@@ -1,6 +1,6 @@
 # webChecker
 
-This bash script needs two input args to work
+Little bash script to check the availability of web pages 
 
 help prompt
 
