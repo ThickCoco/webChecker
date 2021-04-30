@@ -1,1 +1,4 @@
 Con la libreria de python de request podemos hacer esto y mas, miralo cambialo
+
+lo de python tiene ya el sacar listas de ips con hits y misses, falta hacer el request a los que han sido un hit
+
